@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ProjetoMigracaoDados:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProjetoMigracaoDados_jar</output-path>
+    <root id="archive" name="ProjetoMigracaoDados.jar">
+      <element id="module-output" name="ProjetoMigracaoDados" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.2.2/postgresql-42.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/args4j/args4j/2.33/args4j-2.33.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
